@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MPS-Mental Physical Spiritual</string>
+    <string name="hey_welcome_to_mps_your_daily_dose_of_uplift">HEY! WELCOME TO MPS, YOUR DAILY DOSE OF UPLIFT!</string>
+    <string name="todo">TODO</string>
+    <string name="logo">logo</string>
+    <string name="get_started">Get Started</string>
+    <string name="answer_the_following_questions_for_some_self_reflection">Answer The Following Questions For Some Self Reflection</string>
+</resources>
